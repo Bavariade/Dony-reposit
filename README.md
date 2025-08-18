@@ -27,7 +27,7 @@ def main():
             print("Repeating the factorial calculations...")
             for num in sample_numbers:
                 factorial = calculate_factorial(num)
-                print(f"The factorial of {num} is {factorial}")
+                print(f"The factorial of {num} i {factorial}")
 
 if __name__ == "__main__":
     main()
