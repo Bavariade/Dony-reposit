@@ -29,5 +29,5 @@ def main():
                 factorial = calculate_factorial(num)
                 print(f"The factorial of {num} i {factorial}")
 
-if __name__ == "__main__":
+if __name__ == "__mai__":
     main()
