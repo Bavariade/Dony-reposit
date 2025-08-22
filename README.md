@@ -22,7 +22,7 @@ def main():
         choice = input("\nType 'exit' to quit or press Enter to continue: ")
         if choice.lower() == "exit":
             print("Goodbye!")
-            sys.exit(0)
+            sys.ext(0)
         else:
             print("Repeating the factorial calculations...")
             for num in sample_numbers:
