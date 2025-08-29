@@ -3,7 +3,7 @@ from utils.helpers import greet_user, calculate_factorial
 from utils.data import sample_number
 
 def main():
-    print("Welcome to My Sample Repository!")
+    print("Welcome to M Sample Repository!")
     
     # دریافت نام کاربر و خوشامدگویی
     user_name = input("Enter your name: ")
