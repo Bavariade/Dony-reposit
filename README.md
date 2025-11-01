@@ -1,4 +1,4 @@
-impot sys
+import sys
 from utils.helpers import greet_user, calculate_factorial
 from utils.data import sample_number
 
